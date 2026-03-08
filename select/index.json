@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "僕が一番欲しかったもの",
+  "base_artist": "Noriyuki Makihara",
+  "createdAt": "2026-03-08T04:04:45.974958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの feat.若菜",
+      "artist": "kobasolo",
+      "has_synced": false,
+      "path": "select/01_僕が一番欲しかったもの_feat.若菜_kobasolo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/02_僕が一番欲しかったもの_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの - Boku Ga Ichiban Hoshikatta Mono",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/03_僕が一番欲しかったもの_-_Boku_Ga_Ichiban_Hoshikatta_Mono_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/04_僕が一番欲しかったもの_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/05_僕が一番欲しかったもの_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの Renewed",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/06_僕が一番欲しかったもの_Renewed_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの",
+      "artist": "Chris Hart",
+      "has_synced": true,
+      "path": "select/07_僕が一番欲しかったもの_Chris_Hart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "僕が一番欲しかったもの",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/08_僕が一番欲しかったもの_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_僕が一番欲しかったもの_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_02_僕が一番欲しかったもの_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_03_僕が一番欲しかったもの_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_04_僕が一番欲しかったもの_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_05_僕が一番欲しかったもの_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_06_僕が一番欲しかったもの_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの [Live]",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_07_僕が一番欲しかったもの_[Live]_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの Renewed",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_08_僕が一番欲しかったもの_Renewed_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの Renewed",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_09_僕が一番欲しかったもの_Renewed_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "僕が一番欲しかったもの(Renewed)",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_10_僕が一番欲しかったもの(Renewed)_槇原_敬之.txt"
+    }
+  ]
+}
